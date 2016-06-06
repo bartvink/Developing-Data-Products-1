@@ -13,3 +13,10 @@
 
 #####Source
 ######The World Almanac and Book of Facts, 1975.
+
+#####Output
+###### For part 1: ui.R, server.R , getWeight.R and link to shinyApp is uploaded
+###### For part 2: index.Rmd, index.md and index.html are uploaded
+
+PS: Please note that the there will be multiple uploads and these are because of issues in uploading the files
+
